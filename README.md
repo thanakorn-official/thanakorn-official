@@ -69,10 +69,5 @@
 
 <!-- จัดกลุ่มสถิติให้สมดุลและคุมโทนสีขรึม-เท่แบบ Cyberpunk -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanakorn-official&show_icons=true&theme=catppuccin_mocha&border_radius=10" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakorn-official&layout=compact&theme=catppuccin_mocha&border_radius=10" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanakorn-official&theme=catppuccin_mocha&border_radius=10" alt="GitHub Streak" />
 </p>
