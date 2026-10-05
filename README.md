@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=11111b&height=250&section=header&text=⚡%20WELCOME%20TO%20MY%20GITHUB%20⚡&fontSize=52&animation=twinkling&fontColor=cba6f7&theme=tokyonight" alt="Cyberpunk Header" />
 </p>
 
-<!-- VISITOR BADGE & TYPING EFFECT -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thanakorn-official&label=💻%20PROFILE%20VIEWS&color=cba6f7&style=for-the-badge" alt="Views" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Developer;Mobile+App+Creator+(Flutter);IT+Student+at+SBAC;Debugging+%26+Logic+Specialist" alt="Typing SVG" />
@@ -67,7 +66,11 @@
 
 ### 📊 My Coding Dashboard
 
-<!-- จัดกลุ่มสถิติให้สมดุลและคุมโทนสีขรึม-เท่แบบ Cyberpunk -->
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakorn-official&layout=compact&theme=catppuccin_mocha&border_radius=10" alt="Top Languages" height="180" />
+</p>
+
+<!-- น้องแมวดำเดินเล่นข้ามหน้าจอ -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hveGJ2dTh4aG43amZ2YXoxdWhscXlkam55M2psbXJ5bHBuMzViciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqjiOBxY2AH5zX7q6g/giphy.gif" width="350" alt="Walking Black Cat" />
 </p>
