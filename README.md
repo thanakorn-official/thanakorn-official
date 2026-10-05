@@ -69,8 +69,3 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanakorn-official&layout=compact&theme=catppuccin_mocha&border_radius=10" alt="Top Languages" height="180" />
 </p>
-
-<!-- น้องแมวดำเดินเล่นข้ามหน้าจอ -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hveGJ2dTh4aG43amZ2YXoxdWhscXlkam55M2psbXJ5bHBuMzViciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LqjiOBxY2AH5zX7q6g/giphy.gif" width="350" alt="Walking Black Cat" />
-</p>
